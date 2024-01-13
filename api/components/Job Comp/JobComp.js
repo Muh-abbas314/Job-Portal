@@ -2,7 +2,7 @@
 import { IoPaperPlaneSharp } from "react-icons/io5";
 import { HiBolt } from "react-icons/hi2";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+// import { usePathname } from "next/navigation";
 
 export default function JobComp(props)
 {
