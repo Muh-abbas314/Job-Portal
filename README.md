@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project inspired by the Indeed Job searching Portal.
 
+## About The Project
+* Project is a Client-Side Intensive Application
+* Project File Structure Follows Component-based Structure
+* Web App is optimized (stable)
+* Project also includes Shared UI (inspired by Indeed)
+
 ## Tech Stack used
 * NextJS for Client-side Rendering
 * Firebase Realtime Database for Job Post Data in JSON
