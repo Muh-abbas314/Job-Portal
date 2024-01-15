@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org/) project inspired by the Indeed Job sear
 * Project also includes Shared UI (inspired by Indeed)
 
 ## Tech Stack used
-* NextJS for Client-side Rendering
+* NextJS for Client-side Rendering of UI
 * Firebase Realtime Database for Job Post Data in JSON
 * Firebase Database for Storing Applicants' Resumes
 * Next.js API Routes for Handling HTTP Requests.
