@@ -24,7 +24,7 @@ export default function HomeUi()
        </div>
        <Link href={"/jobs"} className=" m-4 hover:bg-[#2140da] bg-[#4461F2] text-white font-semibold px-5 py-3 rounded-md">Find Jobs</Link>
        </div>
-        <div className=" ">
+        <div className="floating">
             <Image src={charLogo} width={300} height={300}/>
         </div>
         </div>
